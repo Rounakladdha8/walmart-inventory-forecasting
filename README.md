@@ -5,4 +5,3 @@ This project focuses on solving a real-world inventory forecasting problem using
 
 ...
 
-Made with ❤️ by Rounak Laddha
